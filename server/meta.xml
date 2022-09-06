@@ -1,0 +1,5 @@
+<meta>
+    <info name="Car Dirty" description="Test Task for Arizona (by Marky)" />
+
+    <script src="obj/x64/Debug/netcoreapp3.1/car_dirty.dll" />
+</meta>
